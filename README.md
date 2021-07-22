@@ -4,8 +4,8 @@ Login with Google,Facebook and GitHub .
 # Clone this repo
 
 # Install composer
- $ cd social-laravel
- $ composer install
+ cd social-laravel
+ composer install
 
  
  # Create app for google, facebook and github
