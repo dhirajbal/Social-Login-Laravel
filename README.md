@@ -1,4 +1,5 @@
 # Clone this repo
+https://github.com/dhirajbal/Social-Login-Laravel.git
 
 # Install composer
 composer install
