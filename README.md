@@ -4,7 +4,7 @@ Login with Google,Facebook and GitHub .
 # Clone this repo
 
 # Install composer
- cd social-laravel
+ cd social-laravel                                  
  composer install
 
  
